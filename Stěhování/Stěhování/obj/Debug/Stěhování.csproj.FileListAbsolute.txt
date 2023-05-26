@@ -1,0 +1,9 @@
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\bin\Debug\Stěhování.exe.config
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\bin\Debug\Stěhování.exe
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\bin\Debug\Stěhování.pdb
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.csprojAssemblyReference.cache
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.Form1.resources
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.Properties.Resources.resources
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.csproj.GenerateResource.cache
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.exe
+C:\Users\kolacekj.ita19\Desktop\Progamování\Stěhování\Stěhování\obj\Debug\Stěhování.pdb
